@@ -1,0 +1,24 @@
+C:\Users\dotnet\Desktop\C#\solutionMeniZaKalkulator\MojaBiblioteka\bin\Debug\MojaBiblioteka.dll
+C:\Users\dotnet\Desktop\C#\solutionMeniZaKalkulator\MojaBiblioteka\bin\Debug\MojaBiblioteka.pdb
+C:\Users\dotnet\Desktop\C#\solutionMeniZaKalkulator\MojaBiblioteka\obj\Debug\MojaBiblioteka.csprojAssemblyReference.cache
+C:\Users\dotnet\Desktop\C#\solutionMeniZaKalkulator\MojaBiblioteka\obj\Debug\MojaBiblioteka.csproj.CoreCompileInputs.cache
+C:\Users\dotnet\Desktop\C#\solutionMeniZaKalkulator\MojaBiblioteka\obj\Debug\MojaBiblioteka.dll
+C:\Users\dotnet\Desktop\C#\solutionMeniZaKalkulator\MojaBiblioteka\obj\Debug\MojaBiblioteka.pdb
+D:\IT prekvalifikacije obuka\Vezbanje\solutionMeniZaKalkulator\MojaBiblioteka\bin\Debug\MojaBiblioteka.dll
+D:\IT prekvalifikacije obuka\Vezbanje\solutionMeniZaKalkulator\MojaBiblioteka\bin\Debug\MojaBiblioteka.pdb
+D:\IT prekvalifikacije obuka\Vezbanje\solutionMeniZaKalkulator\MojaBiblioteka\obj\Debug\MojaBiblioteka.csprojAssemblyReference.cache
+D:\IT prekvalifikacije obuka\Vezbanje\solutionMeniZaKalkulator\MojaBiblioteka\obj\Debug\MojaBiblioteka.csproj.CoreCompileInputs.cache
+D:\IT prekvalifikacije obuka\Vezbanje\solutionMeniZaKalkulator\MojaBiblioteka\obj\Debug\MojaBiblioteka.dll
+D:\IT prekvalifikacije obuka\Vezbanje\solutionMeniZaKalkulator\MojaBiblioteka\obj\Debug\MojaBiblioteka.pdb
+C:\Users\dotnet\Desktop\C#\domaci2\solutionMeniZaKalkulator\MojaBiblioteka\bin\Debug\MojaBiblioteka.dll
+C:\Users\dotnet\Desktop\C#\domaci2\solutionMeniZaKalkulator\MojaBiblioteka\bin\Debug\MojaBiblioteka.pdb
+C:\Users\dotnet\Desktop\C#\domaci2\solutionMeniZaKalkulator\MojaBiblioteka\obj\Debug\MojaBiblioteka.csprojAssemblyReference.cache
+C:\Users\dotnet\Desktop\C#\domaci2\solutionMeniZaKalkulator\MojaBiblioteka\obj\Debug\MojaBiblioteka.csproj.CoreCompileInputs.cache
+C:\Users\dotnet\Desktop\C#\domaci2\solutionMeniZaKalkulator\MojaBiblioteka\obj\Debug\MojaBiblioteka.dll
+C:\Users\dotnet\Desktop\C#\domaci2\solutionMeniZaKalkulator\MojaBiblioteka\obj\Debug\MojaBiblioteka.pdb
+E:\IT prekvalifikacije obuka\C#\C#\solutionMeniZaKalkulator\MojaBiblioteka\bin\Debug\MojaBiblioteka.dll
+E:\IT prekvalifikacije obuka\C#\C#\solutionMeniZaKalkulator\MojaBiblioteka\bin\Debug\MojaBiblioteka.pdb
+E:\IT prekvalifikacije obuka\C#\C#\solutionMeniZaKalkulator\MojaBiblioteka\obj\Debug\MojaBiblioteka.csproj.AssemblyReference.cache
+E:\IT prekvalifikacije obuka\C#\C#\solutionMeniZaKalkulator\MojaBiblioteka\obj\Debug\MojaBiblioteka.csproj.CoreCompileInputs.cache
+E:\IT prekvalifikacije obuka\C#\C#\solutionMeniZaKalkulator\MojaBiblioteka\obj\Debug\MojaBiblioteka.dll
+E:\IT prekvalifikacije obuka\C#\C#\solutionMeniZaKalkulator\MojaBiblioteka\obj\Debug\MojaBiblioteka.pdb

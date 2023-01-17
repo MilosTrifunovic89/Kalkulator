@@ -1,0 +1,61 @@
+C:\Users\dotnet\Desktop\C#\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MeniZaKalkulator.exe.config
+C:\Users\dotnet\Desktop\C#\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MeniZaKalkulator.exe
+C:\Users\dotnet\Desktop\C#\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MeniZaKalkulator.pdb
+C:\Users\dotnet\Desktop\C#\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.csprojAssemblyReference.cache
+C:\Users\dotnet\Desktop\C#\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.csproj.CoreCompileInputs.cache
+C:\Users\dotnet\Desktop\C#\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.exe
+C:\Users\dotnet\Desktop\C#\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.pdb
+C:\Users\dotnet\Desktop\C#\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MojaBiblioteka.dll
+C:\Users\dotnet\Desktop\C#\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MojaBiblioteka.pdb
+C:\Users\dotnet\Desktop\C#\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.csproj.CopyComplete
+D:\IT prekvalifikacije obuka\Vezbanje\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MeniZaKalkulator.exe.config
+D:\IT prekvalifikacije obuka\Vezbanje\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MeniZaKalkulator.exe
+D:\IT prekvalifikacije obuka\Vezbanje\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MeniZaKalkulator.pdb
+D:\IT prekvalifikacije obuka\Vezbanje\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MojaBiblioteka.dll
+D:\IT prekvalifikacije obuka\Vezbanje\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MojaBiblioteka.pdb
+D:\IT prekvalifikacije obuka\Vezbanje\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.csprojAssemblyReference.cache
+D:\IT prekvalifikacije obuka\Vezbanje\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.csproj.CoreCompileInputs.cache
+D:\IT prekvalifikacije obuka\Vezbanje\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.csproj.CopyComplete
+D:\IT prekvalifikacije obuka\Vezbanje\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.exe
+D:\IT prekvalifikacije obuka\Vezbanje\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.pdb
+C:\Users\dotnet\Desktop\C#\domaci2\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MeniZaKalkulator.exe.config
+C:\Users\dotnet\Desktop\C#\domaci2\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MeniZaKalkulator.exe
+C:\Users\dotnet\Desktop\C#\domaci2\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MeniZaKalkulator.pdb
+C:\Users\dotnet\Desktop\C#\domaci2\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MojaBiblioteka.dll
+C:\Users\dotnet\Desktop\C#\domaci2\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MojaBiblioteka.pdb
+C:\Users\dotnet\Desktop\C#\domaci2\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.csprojAssemblyReference.cache
+C:\Users\dotnet\Desktop\C#\domaci2\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.csproj.CoreCompileInputs.cache
+C:\Users\dotnet\Desktop\C#\domaci2\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.csproj.CopyComplete
+C:\Users\dotnet\Desktop\C#\domaci2\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.exe
+C:\Users\dotnet\Desktop\C#\domaci2\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.pdb
+D:\IT prekvalifikacije obuka\Vezbanje\sa Casa\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MeniZaKalkulator.exe.config
+D:\IT prekvalifikacije obuka\Vezbanje\sa Casa\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MeniZaKalkulator.exe
+D:\IT prekvalifikacije obuka\Vezbanje\sa Casa\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MeniZaKalkulator.pdb
+D:\IT prekvalifikacije obuka\Vezbanje\sa Casa\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MojaBiblioteka.dll
+D:\IT prekvalifikacije obuka\Vezbanje\sa Casa\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MojaBiblioteka.pdb
+D:\IT prekvalifikacije obuka\Vezbanje\sa Casa\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.csprojAssemblyReference.cache
+D:\IT prekvalifikacije obuka\Vezbanje\sa Casa\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.csproj.CoreCompileInputs.cache
+D:\IT prekvalifikacije obuka\Vezbanje\sa Casa\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.csproj.CopyComplete
+D:\IT prekvalifikacije obuka\Vezbanje\sa Casa\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.exe
+D:\IT prekvalifikacije obuka\Vezbanje\sa Casa\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.pdb
+D:\IT prekvalifikacije obuka\Vezbanje\_sa_Casa\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MeniZaKalkulator.exe.config
+D:\IT prekvalifikacije obuka\Vezbanje\_sa_Casa\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MeniZaKalkulator.exe
+D:\IT prekvalifikacije obuka\Vezbanje\_sa_Casa\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MeniZaKalkulator.pdb
+D:\IT prekvalifikacije obuka\Vezbanje\_sa_Casa\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MojaBiblioteka.dll
+D:\IT prekvalifikacije obuka\Vezbanje\_sa_Casa\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MojaBiblioteka.pdb
+D:\IT prekvalifikacije obuka\Vezbanje\_sa_Casa\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.csprojAssemblyReference.cache
+D:\IT prekvalifikacije obuka\Vezbanje\_sa_Casa\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.csproj.CoreCompileInputs.cache
+D:\IT prekvalifikacije obuka\Vezbanje\_sa_Casa\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.csproj.CopyComplete
+D:\IT prekvalifikacije obuka\Vezbanje\_sa_Casa\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.exe
+D:\IT prekvalifikacije obuka\Vezbanje\_sa_Casa\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.pdb
+E:\IT prekvalifikacije obuka\C#\C#\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MeniZaKalkulator.exe.config
+E:\IT prekvalifikacije obuka\C#\C#\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MeniZaKalkulator.exe
+E:\IT prekvalifikacije obuka\C#\C#\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MeniZaKalkulator.pdb
+E:\IT prekvalifikacije obuka\C#\C#\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MojaBiblioteka.dll
+E:\IT prekvalifikacije obuka\C#\C#\solutionMeniZaKalkulator\MeniZaKalkulator\bin\Debug\MojaBiblioteka.pdb
+E:\IT prekvalifikacije obuka\C#\C#\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.csproj.AssemblyReference.cache
+E:\IT prekvalifikacije obuka\C#\C#\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.csproj.SuggestedBindingRedirects.cache
+E:\IT prekvalifikacije obuka\C#\C#\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.csproj.CoreCompileInputs.cache
+E:\IT prekvalifikacije obuka\C#\C#\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.csproj.CopyComplete
+E:\IT prekvalifikacije obuka\C#\C#\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.exe
+E:\IT prekvalifikacije obuka\C#\C#\solutionMeniZaKalkulator\MeniZaKalkulator\obj\Debug\MeniZaKalkulator.pdb

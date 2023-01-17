@@ -1,0 +1,9 @@
+D:\IT prekvalifikacije obuka\Vezbanje\_VS_SKOLA\solutionMeniZaKalkulator\MojaBiblioteka\bin\Debug\netstandard2.0\MojaBiblioteka.deps.json
+D:\IT prekvalifikacije obuka\Vezbanje\_VS_SKOLA\solutionMeniZaKalkulator\MojaBiblioteka\bin\Debug\netstandard2.0\MojaBiblioteka.dll
+D:\IT prekvalifikacije obuka\Vezbanje\_VS_SKOLA\solutionMeniZaKalkulator\MojaBiblioteka\bin\Debug\netstandard2.0\MojaBiblioteka.pdb
+D:\IT prekvalifikacije obuka\Vezbanje\_VS_SKOLA\solutionMeniZaKalkulator\MojaBiblioteka\obj\Debug\netstandard2.0\MojaBiblioteka.csprojAssemblyReference.cache
+D:\IT prekvalifikacije obuka\Vezbanje\_VS_SKOLA\solutionMeniZaKalkulator\MojaBiblioteka\obj\Debug\netstandard2.0\MojaBiblioteka.csproj.CoreCompileInputs.cache
+D:\IT prekvalifikacije obuka\Vezbanje\_VS_SKOLA\solutionMeniZaKalkulator\MojaBiblioteka\obj\Debug\netstandard2.0\MojaBiblioteka.AssemblyInfoInputs.cache
+D:\IT prekvalifikacije obuka\Vezbanje\_VS_SKOLA\solutionMeniZaKalkulator\MojaBiblioteka\obj\Debug\netstandard2.0\MojaBiblioteka.AssemblyInfo.cs
+D:\IT prekvalifikacije obuka\Vezbanje\_VS_SKOLA\solutionMeniZaKalkulator\MojaBiblioteka\obj\Debug\netstandard2.0\MojaBiblioteka.dll
+D:\IT prekvalifikacije obuka\Vezbanje\_VS_SKOLA\solutionMeniZaKalkulator\MojaBiblioteka\obj\Debug\netstandard2.0\MojaBiblioteka.pdb

@@ -1,0 +1,10 @@
+C:\Users\dotnet\Desktop\C#\solutionMeniZaKalkulator\NovaAplikacija\bin\Debug\NovaAplikacija.exe.config
+C:\Users\dotnet\Desktop\C#\solutionMeniZaKalkulator\NovaAplikacija\bin\Debug\NovaAplikacija.exe
+C:\Users\dotnet\Desktop\C#\solutionMeniZaKalkulator\NovaAplikacija\bin\Debug\NovaAplikacija.pdb
+C:\Users\dotnet\Desktop\C#\solutionMeniZaKalkulator\NovaAplikacija\bin\Debug\MojaBiblioteka.dll
+C:\Users\dotnet\Desktop\C#\solutionMeniZaKalkulator\NovaAplikacija\bin\Debug\MojaBiblioteka.pdb
+C:\Users\dotnet\Desktop\C#\solutionMeniZaKalkulator\NovaAplikacija\obj\Debug\NovaAplikacija.csproj.CoreCompileInputs.cache
+C:\Users\dotnet\Desktop\C#\solutionMeniZaKalkulator\NovaAplikacija\obj\Debug\NovaAplikacija.csproj.CopyComplete
+C:\Users\dotnet\Desktop\C#\solutionMeniZaKalkulator\NovaAplikacija\obj\Debug\NovaAplikacija.exe
+C:\Users\dotnet\Desktop\C#\solutionMeniZaKalkulator\NovaAplikacija\obj\Debug\NovaAplikacija.pdb
+C:\Users\dotnet\Desktop\C#\solutionMeniZaKalkulator\NovaAplikacija\obj\Debug\NovaAplikacija.csprojAssemblyReference.cache
